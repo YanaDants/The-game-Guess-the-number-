@@ -1,1 +1,14 @@
-м
+<resources>
+    <string name="app_name">GuessTheNumber</string>
+    <string name="small">Минимальное число</string>
+    <string name="bigger">Максимальное число</string>
+
+    <string name="newgame">Начать</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+
+    <string name="resultNumber">Выберите</string>
+    <string name="main_text">Введите значение</string>
+
+    <string name="resultnumber">Я угадал?</string>
+</resources>
